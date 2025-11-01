@@ -1,5 +1,5 @@
 # ChemViAr
-APK 
+## APK
 • Download the apk file from the link and install the apk. 
 • Give camera permission. 
 • After opening any AR page, the camera will open. Wait 
