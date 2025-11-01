@@ -5,6 +5,7 @@
 • Give camera permission.
 
 • After opening any AR page, the camera will open. Wait until you see the square on the screen. When the square appears click on the screen.
+![Alt text](images/I1.png)
 
 • You can drag, zoom in, zoom out and rotate the model with your fingers.
 
