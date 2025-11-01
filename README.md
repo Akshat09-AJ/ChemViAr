@@ -1,7 +1,7 @@
 # ChemViAr
 ## -- APK
 
-• Download the apk file.
+• Download the apk file from the link and install the apk.
 
 • Give camera permission.
 
@@ -23,7 +23,7 @@
 
 ## -- Project 
 
-• Download the Unity project. 
+• Download the Unity project ChemViAr file from link below. 
 
 • Add it in your unity hub. 
 
@@ -36,3 +36,8 @@
 • This project in build in unity version 2022.3.18f1. 
 
 • Minimum Android 8 is required.
+
+## -- Link:
+
+[Click to download the project from Google Drive](https://drive.google.com/drive/folders/14QRcCmdeXRGGG6qWnxBuJRL1OP9hk0rP?usp=sharing)
+
